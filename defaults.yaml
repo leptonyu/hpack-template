@@ -1,7 +1,3 @@
-maintainer: Daniel YU <leptonyu@gmail.com>
-license: MIT
-extra-source-files: README.md
-
 ghc-options: -Wall -Wcompat -Wincomplete-record-updates -Wincomplete-uni-patterns -Wredundant-constraints -fno-warn-orphans
 
 default-extensions:
